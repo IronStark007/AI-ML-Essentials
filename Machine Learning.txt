@@ -1,0 +1,6 @@
+Machine Learning is the part of AI and is the process of training the machine with training data to make predictions. It is divided into three types
+
+1. Supervised Learning - In this process the machine is trained on labelled data.
+2. UnSuperVise Learning - In this process the machine is trained on unlabelled data.
+3. Semi Supervised Learning - In this data is having both labelled and unlabelled data.
+4. Reinforest Learning - In this process the machine is trained to make a sequence of decision .It is based on the idea of trials and errors.
